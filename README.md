@@ -1,4 +1,4 @@
-# major-incident-process.md# Major Incident Management Process
+# Major Incident Management Process
 
 ## Objective
 Ensure rapid restoration of critical services with minimal business impact while maintaining strong communication and governance.
