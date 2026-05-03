@@ -33,3 +33,31 @@ Ensure rapid restoration of critical services with minimal business impact while
 - RCA-driven fixes
 - Automation opportunities
 - Runbook updates
+## Real Incident Scenario (Enterprise Context)
+
+### Incident Summary
+Critical database outage impacting BFS payment processing system.
+
+### Business Impact
+- 10,000+ users affected
+- Revenue-impacting transactions failed
+- High SLA breach risk
+
+### Response Actions
+- Incident bridge initiated within 5 minutes
+- Cross-functional teams engaged (DB, Infra, Application)
+- Failover executed to secondary region
+- Business updates communicated every 15 minutes
+
+### Resolution
+Service restored within 30 minutes.
+
+### Outcome
+- No SLA breach
+- MTTR reduced through predefined runbook execution
+- Root cause identified as capacity bottleneck
+
+### Improvement Actions
+- Auto-scaling implementation
+- Monitoring threshold tuning
+- Runbook updated for future prevention
